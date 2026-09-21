@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\bin\Debug\CalculatorP.exe.config
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\bin\Debug\CalculatorP.exe
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\bin\Debug\CalculatorP.pdb
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\obj\Debug\CalculatorP.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\obj\Debug\CalculatorP_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\obj\Debug\CalculatorP_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\obj\Debug\CalculatorP.g.resources
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\obj\Debug\CalculatorP.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\obj\Debug\CalculatorP.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\obj\Debug\CalculatorP.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\obj\Debug\CalculatorP.exe
+C:\Users\Пользователь\Desktop\CalculatorP\CalculatorP\obj\Debug\CalculatorP.pdb
