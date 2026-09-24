@@ -1,16 +1,15 @@
-# Auto detect text files and perform LF normalization
+# Auto detect text file
 * text=auto
 
-# C# source files
-*.cs text diff=csharp
-*.xaml text
-*.csproj text
-*.sln text eol=crlf
-
-# Documentation
-*.md text
+# C# source files with explicit LF
+*.cs text eol=lf
+*.xaml text eol=lf
+*.csproj text eol=lf
+*.sln text eol=lf
 
 # Binary files
+*.png binary
+*.jpg binary
 *.dll binary
 *.exe binary
 *.ico binary
